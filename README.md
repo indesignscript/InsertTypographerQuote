@@ -33,7 +33,6 @@ Undo the action if needed by pressing Cmd + Z (Win: Strg + Z)
 Contact InDesignScript.de:
 
 http://www.indesignscript.de
-Email: info@indesignscript.de
 Twitter: @InDesignScript
 
  
